@@ -1,0 +1,6 @@
+framework module YZAPIs {
+  umbrella header "YZAPIs-umbrella.h"
+
+  export *
+  module * { export * }
+}
